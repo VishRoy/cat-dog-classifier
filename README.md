@@ -1,4 +1,3 @@
-readme = """
 # 🐱🐶 Cat vs Dog Classifier
 
 A deep learning image classifier built with HuggingFace Transformers.
